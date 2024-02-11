@@ -4,10 +4,10 @@ En este practica he usado los siguientes comandos para crear un repositorio y en
 Estos son los comandos que he usado:
 - cd: Sirve para moverte entre repositorios
 - mkdir: Sirve para crear un directorio
-
 - nano: editar archivos de texto
 - ls l: mostrar todos los archivos del repositorio
-- echo mensaje > documento donde va: insertar una linea en un archivo
+- echo "mensaje" > documento.txt : se crea un documento y se le inserta el texto puwsto entre comillas
+- echo "mensaje" >> documetno.txt : se añade un texto nuevo al documento mencionado que ya esta creado
 - git init: iniciar un repositorio
 - git add .: llevar un archivo al area de trabajo
 - git commit m: guardar el cambio
