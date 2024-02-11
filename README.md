@@ -1,4 +1,5 @@
 ## PRACTICA EVALUABLE ENTORNO DE DESARROLLOS
+En este practica he usado los siguientes comandos para crear un repositorio y en ellos documentos donde se le han añadido comentarios, para despues validar los archivos. Tambien se han creado ramas hacuiendo el mismo proceso de creacion de documentos. Las ramas se han creando y eliminando dependiendo de lo que se pedia en los ejercicios y por ultimo fusionar las ramas y resolver el conflicto que se produce al hacer cambios diferentes a un archivo en diferentes ramas e intentar fusionarlas. Y por supuesto se han usado los comandos para sincronizar los cambios con ste repositorio remoto.
 
 Estos son los comandos que he usado:
 - cd: Sirve para moverte entre repositorios
